@@ -41,4 +41,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/sethupathy06/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/sethupathy06/Leetcode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/sethupathy06/Leetcode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
